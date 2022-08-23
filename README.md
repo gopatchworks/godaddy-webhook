@@ -4,6 +4,7 @@ Table of Contents
 =================
 
   * [Installation](#installation)
+      * [Buillding the Helm Chart](#building-the-helm-chart)
       * [Cert Manager](#cert-manager)
       * [The Webhook](#the-webhook)
   * [Issuer](#issuer)
@@ -14,6 +15,10 @@ Table of Contents
       * [Generate the container image](#generate-the-container-image)
 
 ## Installation
+
+### Building the Helm Chart
+
+To build the Helm Chart, follow the instructions in `deploy/README.md`.
 
 ### Cert Manager
 
